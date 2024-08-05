@@ -6,6 +6,7 @@ Utilized tools such as Nmap, Nessus, Burp Suite, Metasploit, and Wireshark to pe
 Prepared detailed reports outlining findings, risk levels, and mitigation strategies, ensuring clients understand the security posture and necessary improvements.
 Collaborated with client IT teams to implement security measures and verify the effectiveness of remediation efforts.
 Maintained up-to-date knowledge of emerging threats, vulnerabilities, and industry best practices to enhance testing methodologies and client security.
+
 Key Projects:
 
 E-commerce Platform Penetration Test: Identified multiple critical vulnerabilities, including SQL injection and cross-site scripting (XSS), leading to the implementation of improved security measures.
